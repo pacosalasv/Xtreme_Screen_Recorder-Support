@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for Xtreme Screen Recorder v1.10, a local browser screen-recording extension.",
+  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "screen-recorder",
+    "recording",
+    "chrome",
+    "edge",
+    "firefox",
+    "productivity",
+    "technical-support"
+  ]
+}
