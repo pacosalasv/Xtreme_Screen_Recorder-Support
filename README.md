@@ -4,11 +4,11 @@
 
 # Xtreme Screen Recorder
 
-**Local screen recording with recovery, device selection, audio mixing, regions, camera overlay, and private library workflows**
+**Record, compose, recover, convert, and manage screen captures locally — with camera, audio, regions, overlays, scene elements, and a private library.**
 
-![Status](https://img.shields.io/badge/Status-Current%20build-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.10-00B7FF?style=for-the-badge) ![Browsers](https://img.shields.io/badge/Browsers-Chromium%20%2F%20Edge%20%2F%20Firefox-334155?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Current%20Release-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.10-00B7FF?style=for-the-badge) ![Browsers](https://img.shields.io/badge/Browsers-Chromium%20%2F%20Edge%20%2F%20Firefox-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support/issues) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Profile-334155?style=for-the-badge)](https://github.com/pacosalasv) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Site-64748B?style=for-the-badge)](https://xtreme-mindset.blogspot.com/)
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-64748B?style=for-the-badge)](https://xtrememindset.blogspot.com/) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
 
 </div>
 
@@ -16,37 +16,47 @@
 
 ## Overview
 
-Xtreme Screen Recorder is a browser-based screen recorder. The supplied v1.10 manifest describes segmented recovery, device selection, audio mixing, capture regions, camera overlay, a private library, and local conversion workflows.
+Xtreme Screen Recorder is a production-minded browser recorder for demos, training, tutorials, presentations, troubleshooting, walkthroughs, and creator workflows. It combines screen capture with microphone/system-audio mixing, camera overlay, region control, recording presets, local format conversion, scene elements, reliability monitoring, recovery, and a private local library.
+
+The workflow is deliberately local-first: recordings are processed on the machine rather than uploaded as part of the normal product flow. That makes it a strong fit for internal demonstrations, client work, technical documentation, education, and any situation where speed and control matter as much as the final video.
+
+## Key features
+
+- **Screen, camera, microphone, and system-audio workflows** with device selection and independent mix levels.
+- **Recording presets up to 4K / 60 FPS** plus 1080p, 720p, presentation, vertical, and lightweight GIF-oriented presets.
+- **Multiple output formats** including WebM, MP4, MOV, MKV, AVI, OGV, and GIF through local conversion workflows.
+- **Capture-region controls** for full source, centered 16:9, 9:16, 1:1, or custom X/Y/width/height regions.
+- **Camera overlay customization** with position, size, shape, mirroring, and custom placement.
+- **Scene elements** for blur areas, logos, and styled text overlays that can be positioned and resized in the composition.
+- **Reliability monitor and segmented recovery** with FPS, dropped-frame, A/V sync, segment, memory, and local-storage visibility.
+- **Private local library** for saved recordings that remain available across browser sessions until removed.
+
+## Standout tools and workflows
+
+| Tool / workflow | Why it matters |
+|---|---|
+| **Recording Presets** | Move quickly between high-quality, balanced, compact, presentation, vertical and GIF-oriented setups. |
+| **Device & Mix** | Switch camera/microphone devices and control microphone/system audio levels from the recording workspace. |
+| **Region Capture** | Crop the capture before encoding using fixed aspect presets or a custom region. |
+| **Camera Overlay** | Place a mirrored or standard camera feed in a configurable corner or custom position. |
+| **Scene Composer** | Add blur regions, logos and styled text directly to the recording composition. |
+| **Local Conversion** | Convert captured media locally into multiple delivery formats. |
+| **Reliability Monitor** | Watch actual FPS, dropped frames, A/V sync, segments, memory and local storage while recording. |
+| **Recovery + Library** | Recover interrupted sessions where possible and keep successful recordings in a private local library. |
 
 ## Product status
 
 | Item | Details |
 |---|---|
-| Status | **Current build** |
+| Status | **Current release** |
 | Version | 1.10 |
 | Product type | Browser extension |
 | Browsers | Chromium / Edge / Firefox |
-| Distribution | Installable product files are not mirrored in this support repository. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-## Capabilities
-
-| Capability |
-|---|
-| Screen-recording workflows with device selection. |
-| Audio mixing and capture-region controls. |
-| Camera overlay support. |
-| Segmented recovery. |
-| Private local library and local conversion workflows. |
-| Chromium/Edge and Firefox builds in the supplied package. |
+| Best for | Demos, training, tutorials, technical documentation, internal/client walkthroughs |
 
 ## Media
 
-The featured image above is the current public product identity/reference image for this support repository.
-
-## Product reference
-
-This page is based on the supplied **Xtreme Screen Recorder 1.10** build/reference files. The installable product is intentionally kept outside this public support repository.
+Additional screenshots and workflow previews are coming soon.
 
 ## Documentation and support
 
@@ -59,7 +69,7 @@ This page is based on the supplied **Xtreme Screen Recorder 1.10** build/referen
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, compatibility work, documentation, testing, and continued development of practical free tools.
+If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -71,10 +81,12 @@ Ko-fi support is optional. Contributions help fund maintenance, compatibility wo
 
 | Destination | Link |
 |---|---|
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Xtreme Mindset | [Product and experimentation site](https://xtreme-mindset.blogspot.com/) |
+| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
+| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
+| KreaOn | [Applied technology education](https://www.kreaon.com/) |
+| DRH Blender Tools | [Browse Blender tools on BlendKit](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-Installable extension packages are not distributed from this support repository. Refer to the product package/store listing for applicable terms.
+Licensing and usage terms are provided with the current Xtreme Screen Recorder distribution.

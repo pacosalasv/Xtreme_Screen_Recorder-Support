@@ -1,6 +1,6 @@
 {
-  "description": "Documentation and support for Xtreme Screen Recorder v1.10, a local browser screen-recording extension.",
-  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "description": "Local-first screen recorder with camera/audio mixing, capture regions, 4K presets, scene overlays, recovery, local conversion, reliability monitoring and private library.",
+  "homepage": "https://xtrememindset.blogspot.com/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,
