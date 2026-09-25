@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="860" alt="Xtreme Screen Recorder featured image" src="docs/media/Featured_Image.png" />
+<img width="860" alt="Xtreme Screen Recorder logo" src="docs/media/Logo.png" />
 
 # Xtreme Screen Recorder
 
